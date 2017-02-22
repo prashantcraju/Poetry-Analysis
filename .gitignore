@@ -119,3 +119,9 @@ poetry_1905-1909.tar.gz
 poetry_1905-1909/
 poetry_1910-1914.tar.gz
 poetry_1910-1914/
+
+# Mac ignore
+.DS_Store
+Cleaning.ipynb
+Screen Shot 2017-02-15 at 6.41.43 PM.png
+eggs.csv
