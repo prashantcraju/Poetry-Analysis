@@ -105,3 +105,17 @@ atlassian-ide-plugin.xml
 com_crashlytics_export_strings.xml
 crashlytics.properties
 crashlytics-build.properties
+
+# Poetry large files
+	poetry_1880-1889.tar.gz
+	poetry_1880-1889/
+	poetry_1890-1894.tar.gz
+	poetry_1890-1894/
+	poetry_1895-1899.tar.gz
+	poetry_1895-1899/
+	poetry_1900-1904.tar.gz
+	poetry_1900-1904/
+	poetry_1905-1909.tar.gz
+	poetry_1905-1909/
+	poetry_1910-1914.tar.gz
+	poetry_1910-1914/
